@@ -1,0 +1,71 @@
+"","x"
+"Ascorbate and aldarate metabolism (KEGG)",1
+"Fatty acid biosynthesis (KEGG)",2
+"Synthesis and degradation of ketone bodies (KEGG)",2
+"Ubiquinone and other terpenoid-quinone biosynthesis (KEGG)",1
+"Caffeine metabolism (KEGG)",1
+"Histidine metabolism (KEGG)",1
+"Taurine and hypotaurine metabolism (KEGG)",1
+"Selenocompound metabolism (KEGG)",2
+"Cyanoamino acid metabolism (KEGG)",1
+"One carbon pool by folate (KEGG)",2
+"Vitamin B6 metabolism (KEGG)",2
+"Sulfur relay system (KEGG)",2
+"Renin-angiotensin system (KEGG)",1
+"Asthma (KEGG)",2
+"Sphingolipid Metabolism (Wikipathways)",2
+"Ganglio Sphingolipid Metabolism (Wikipathways)",2
+"Globo Sphingolipid Metabolism (Wikipathways)",2
+"BMP signalling and regulation (Wikipathways)",1
+"Serotonin Transporter Activity (Wikipathways)",2
+"Vitamin D synthesis (Wikipathways)",2
+"Nicotine metabolism (Wikipathways)",3
+"Codeine and morphine metabolism (Wikipathways)",1
+"Th1/Th2 (Wikipathways)",4
+"Fatty Acid Omega Oxidation (Wikipathways)",1
+"Irinotecan Pathway (Wikipathways)",1
+"Glucocorticoid &amp; Mineralcorticoid Metabolism (Wikipathways)",3
+"Blood Clotting Cascade (Wikipathways)",1
+"NLR proteins (Wikipathways)",2
+"Nuclear receptors in lipid metabolism and toxicity (Wikipathways)",1
+"Osteoblast Signaling (Wikipathways)",1
+"GPCRs, Class B Secretin-like (Wikipathways)",1
+"Non-homologous end joining (Wikipathways)",2
+"Steroid Biosynthesis (Wikipathways)",1
+"Hypertrophy Model (Wikipathways)",2
+"Acetylcholine Synthesis (Wikipathways)",2
+"Complement Activation, Classical Pathway (Wikipathways)",1
+"Biogenic Amine Synthesis (Wikipathways)",1
+"Complement and Coagulation Cascades (Wikipathways)",1
+"Heme Biosynthesis (Wikipathways)",2
+"Benzo(a)pyrene metabolism (Wikipathways)",2
+"Aflatoxin B1 metabolism (Wikipathways)",2
+"Nucleotide GPCRs (Wikipathways)",1
+"Signaling by BMP (Reactome)",1
+"Metabolism of porphyrins (Reactome)",2
+"Signaling by VEGF (Reactome)",1
+"IL-5 down reg. targets (Netpath)",2
+"IL-7 down reg. targets (Netpath)",2
+"{ACY1,11} (Static Module)",1
+"{ASH2L,391} (Static Module)",1
+"{BRCA1,28} (Static Module)",2
+"{CHRNA1,13} (Static Module)",1
+"{FCGR2B,50} (Static Module)",1
+"{FLI1,10} (Static Module)",2
+"{HIST3H3,14} (Static Module)",2
+"{IGF1,13} (Static Module)",1
+"{KCNB1,10} (Static Module)",3
+"{MLLT4,12} (Static Module)",1
+"{NRP1,11} (Static Module)",3
+"{PAK2,10} (Static Module)",2
+"{PLG,10} (Static Module)",1
+"{PTPRF,10} (Static Module)",1
+"{RAD21,11} (Static Module)",2
+"{RAD51,13} (Static Module)",1
+"{ROCK1,10} (Static Module)",2
+"{SIX3,11} (Static Module)",3
+"{SMAD4,27} (Static Module)",2
+"{SPTAN1,10} (Static Module)",2
+"{SREBF1,11} (Static Module)",2
+"{SRF,11} (Static Module)",2
+"{USF1,13} (Static Module)",2

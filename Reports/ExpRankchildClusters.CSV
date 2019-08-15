@@ -1,0 +1,31 @@
+"","x"
+"Fatty acid elongation in mitochondria (KEGG)",1
+"Ribosome (KEGG)",2
+"DNA replication (KEGG)",1
+"Proteasome (KEGG)",3
+"Protein export (KEGG)",3
+"Proteasome Degradation (Wikipathways)",3
+"Non-homologous end joining (Wikipathways)",1
+"DNA Replication (Wikipathways)",1
+"Cytoplasmic Ribosomal Proteins (Wikipathways)",2
+"Mismatch repair (Wikipathways)",2
+"Biogenic Amine Synthesis (Wikipathways)",4
+"Heme Biosynthesis (Wikipathways)",3
+"Oxidative phosphorylation (Wikipathways)",3
+"Arylamine metabolism (Wikipathways)",4
+"Aflatoxin B1 metabolism (Wikipathways)",3
+"Metabolism of porphyrins (Reactome)",3
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins. (Reactome)",3
+"{ATP5D,19} (Static Module)",4
+"{BCLAF1,25} (Static Module)",1
+"{CYCS,35} (Static Module)",3
+"{EPRS,15} (Static Module)",2
+"{HSP90B1,11} (Static Module)",1
+"{INS,35} (Static Module)",3
+"{KCNB1,10} (Static Module)",4
+"{NDUFS8,49} (Static Module)",3
+"{RAD21,11} (Static Module)",4
+"{SFPQ,10} (Static Module)",1
+"{SPTAN1,10} (Static Module)",4
+"{SUMO1,12} (Static Module)",3
+"{VHL,12} (Static Module)",3

@@ -1,0 +1,26 @@
+"","x"
+"Fatty acid biosynthesis (KEGG)",1
+"Ribosome (KEGG)",2
+"Allograft rejection (KEGG)",3
+"Graft-versus-host disease (KEGG)",3
+"Pentose Phosphate Pathway (Wikipathways)",4
+"Osteopontin Signaling (Wikipathways)",3
+"IL-1 Signaling Pathway (Wikipathways)",3
+"Cholesterol Biosynthesis (Wikipathways)",1
+"Cytoplasmic Ribosomal Proteins (Wikipathways)",2
+"Heme Biosynthesis (Wikipathways)",1
+"Type II interferon signaling (IFNG) (Wikipathways)",3
+"Metabolism of porphyrins (Reactome)",1
+"Regulation of beta-cell development (Reactome)",4
+"Influenza Infection (Reactome)",4
+"ID up reg. targets (Netpath)",3
+"IL-3 down reg. targets (Netpath)",3
+"IL-5 down reg. targets (Netpath)",1
+"{ATP5D,19} (Static Module)",4
+"{CD4,14} (Static Module)",3
+"{GAPDH,13} (Static Module)",3
+"{HSP90B1,11} (Static Module)",3
+"{MMP9,11} (Static Module)",1
+"{NAP1L1,23} (Static Module)",3
+"{RPS27A,138} (Static Module)",4
+"{SPI1,10} (Static Module)",3

@@ -1,0 +1,16 @@
+Pathway Name,Overall,Direction,Upregulated,Downregulated
+Monoamine GPCRs (Wikipathways),1.100918601,UP,1,0
+DNA Replication (Wikipathways),0.67443826,DOWN,0,1
+Protein export (KEGG),0.508674925,DOWN,0,1
+Vitamin B6 metabolism (KEGG),0.454394879,DOWN,0,1
+Fatty acid elongation in mitochondria (KEGG),0.389043246,DOWN,0,1
+"{INS,35} (Static Module)",0.347751393,DOWN,0,1
+"{PCNA,34} (Static Module)",0.325231428,DOWN,0,1
+DNA replication (KEGG),0.279224579,DOWN,0,1
+"{RASGRF1,26} (Static Module)",0.243253912,UP,1,0
+Linoleic acid metabolism (KEGG),0.184423227,UP,1,0
+"{SFPQ,10} (Static Module)",0.12525591,DOWN,0,1
+Caffeine metabolism (KEGG),0.123503261,UP,1,0
+"{ACY1,11} (Static Module)",0.11935891,UP,1,0
+Tamoxifen metabolism (Wikipathways),0.103567343,UP,1,0
+"{OTX2,18} (Static Module)",0.041771007,UP,1,0

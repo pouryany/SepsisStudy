@@ -1,0 +1,31 @@
+"","x"
+"Caffeine metabolism (KEGG)",1
+"DNA replication (KEGG)",2
+"Proteasome (KEGG)",3
+"Protein export (KEGG)",3
+"Nicotine metabolism (Wikipathways)",1
+"Proteasome Degradation (Wikipathways)",3
+"Glucocorticoid &amp; Mineralcorticoid Metabolism (Wikipathways)",1
+"GPCRs, Class B Secretin-like (Wikipathways)",1
+"Apoptosis Modulation by HSP70 (Wikipathways)",4
+"Non-homologous end joining (Wikipathways)",3
+"DNA Replication (Wikipathways)",2
+"Mismatch repair (Wikipathways)",2
+"Biogenic Amine Synthesis (Wikipathways)",1
+"Heme Biosynthesis (Wikipathways)",1
+"Type II interferon signaling (IFNG) (Wikipathways)",4
+"Oxidative phosphorylation (Wikipathways)",3
+"Arylamine metabolism (Wikipathways)",4
+"Aflatoxin B1 metabolism (Wikipathways)",1
+"Methylation Pathways (Wikipathways)",1
+"Metabolism of porphyrins (Reactome)",1
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins. (Reactome)",3
+"{ATP5D,19} (Static Module)",4
+"{BCLAF1,25} (Static Module)",2
+"{CYCS,35} (Static Module)",3
+"{HSP90B1,11} (Static Module)",3
+"{INS,35} (Static Module)",3
+"{KCNB1,10} (Static Module)",1
+"{NDUFS8,49} (Static Module)",3
+"{SPTAN1,10} (Static Module)",1
+"{SUMO1,12} (Static Module)",3

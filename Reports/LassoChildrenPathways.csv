@@ -1,0 +1,74 @@
+"","Overall"
+"`Fatty acid elongation in mitochondria (KEGG)`",0.38904324566494
+"`Ubiquinone and other terpenoid-quinone biosynthesis (KEGG)`",0
+"`Caffeine metabolism (KEGG)`",0.123503261101304
+"`Cyanoamino acid metabolism (KEGG)`",0
+"`Linoleic acid metabolism (KEGG)`",0.184423227295588
+"`Vitamin B6 metabolism (KEGG)`",0.45439487870811
+"`DNA replication (KEGG)`",0.279224578646829
+"`Proteasome (KEGG)`",0
+"`Protein export (KEGG)`",0.508674924742501
+"`Electron Transport Chain (Wikipathways)`",0
+"`Pentose Phosphate Pathway (Wikipathways)`",0
+"`Phase I, non P450 (Wikipathways)`",0
+"`Nicotine metabolism (Wikipathways)`",0
+"`Proteasome Degradation (Wikipathways)`",0
+"`IL-1 Signaling Pathway (Wikipathways)`",0
+"`Cholesterol Biosynthesis (Wikipathways)`",0
+"`SREBP signalling (Wikipathways)`",0
+"`Fatty Acid Omega Oxidation (Wikipathways)`",0
+"`IL-9 Signaling Pathway (Wikipathways)`",0
+"`Glucocorticoid &amp; Mineralcorticoid Metabolism (Wikipathways)`",0
+"`NLR proteins (Wikipathways)`",0
+"`Osteoblast Signaling (Wikipathways)`",0
+"`GPCRs, Class B Secretin-like (Wikipathways)`",0
+"`Mitochondrial LC-Fatty Acid Beta-Oxidation (Wikipathways)`",0
+"`Apoptosis Modulation by HSP70 (Wikipathways)`",0
+"`Nucleotide Metabolism (Wikipathways)`",0
+"`Non-homologous end joining (Wikipathways)`",0
+"`DNA Replication (Wikipathways)`",0.674438259553235
+"`GPCRs, Class C Metabotropic glutamate, pheromone (Wikipathways)`",0
+"`Mismatch repair (Wikipathways)`",0
+"`Biogenic Amine Synthesis (Wikipathways)`",0
+"`Heme Biosynthesis (Wikipathways)`",0
+"`Monoamine GPCRs (Wikipathways)`",1.10091860104544
+"`Type II interferon signaling (IFNG) (Wikipathways)`",0
+"`Oxidative phosphorylation (Wikipathways)`",0
+"`Tamoxifen metabolism (Wikipathways)`",0.103567342726223
+"`Arylamine metabolism (Wikipathways)`",0
+"`Aflatoxin B1 metabolism (Wikipathways)`",0
+"`Methylation Pathways (Wikipathways)`",0
+"`Cell Cycle Checkpoints (Reactome)`",0
+"`Metabolism of porphyrins (Reactome)`",0
+"`Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins. (Reactome)`",0
+"`Signaling by Wnt (Reactome)`",0
+"`IL-3 down reg. targets (Netpath)`",0
+"`{ACY1,11} (Static Module)`",0.119358910081941
+"`{ATP5D,19} (Static Module)`",0
+"`{BCLAF1,25} (Static Module)`",0
+"`{CD4,14} (Static Module)`",0
+"`{CNOT2,13} (Static Module)`",0
+"`{CYCS,35} (Static Module)`",0
+"`{DHX15,14} (Static Module)`",0
+"`{EPRS,15} (Static Module)`",0
+"`{HSP90B1,11} (Static Module)`",0
+"`{IGF1,13} (Static Module)`",0
+"`{INS,35} (Static Module)`",0.347751393070362
+"`{KCNB1,10} (Static Module)`",0
+"`{NDUFS8,49} (Static Module)`",0
+"`{NRP1,11} (Static Module)`",0
+"`{OTX2,18} (Static Module)`",0.0417710072875298
+"`{PCNA,34} (Static Module)`",0.325231428495449
+"`{PLG,10} (Static Module)`",0
+"`{RAD21,11} (Static Module)`",0
+"`{RASGRF1,26} (Static Module)`",0.243253911902729
+"`{ROCK1,10} (Static Module)`",0
+"`{SEC24B,18} (Static Module)`",0
+"`{SFPQ,10} (Static Module)`",0.125255910048563
+"`{SHH,13} (Static Module)`",0
+"`{SNX1,11} (Static Module)`",0
+"`{SPTAN1,10} (Static Module)`",0
+"`{STX5,12} (Static Module)`",0
+"`{SUMO1,12} (Static Module)`",0
+"`{TJP1,26} (Static Module)`",0
+"`{VHL,12} (Static Module)`",0

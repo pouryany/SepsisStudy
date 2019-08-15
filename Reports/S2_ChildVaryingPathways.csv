@@ -1,0 +1,74 @@
+"","x"
+"Fatty acid elongation in mitochondria (KEGG)",1.3129238786394
+"Ubiquinone and other terpenoid-quinone biosynthesis (KEGG)",1.20363774687782
+"Caffeine metabolism (KEGG)",2.08460692955019
+"Cyanoamino acid metabolism (KEGG)",1.14358263372785
+"Linoleic acid metabolism (KEGG)",1.05461933733727
+"Vitamin B6 metabolism (KEGG)",1.16258049750976
+"DNA replication (KEGG)",1.73428876263391
+"Proteasome (KEGG)",2.07245736243776
+"Protein export (KEGG)",1.90111452721212
+"Electron Transport Chain (Wikipathways)",1.16214386994379
+"Pentose Phosphate Pathway (Wikipathways)",1.1463794736653
+"Phase I, non P450 (Wikipathways)",1.11848672512347
+"Nicotine metabolism (Wikipathways)",2.29008561371983
+"Proteasome Degradation (Wikipathways)",1.7194684139222
+"IL-1 Signaling Pathway (Wikipathways)",1.32740063294489
+"Cholesterol Biosynthesis (Wikipathways)",1.47660273846161
+"SREBP signalling (Wikipathways)",1.2005140621094
+"Fatty Acid Omega Oxidation (Wikipathways)",1.22977154517777
+"IL-9 Signaling Pathway (Wikipathways)",1.21336493969442
+"Glucocorticoid &amp; Mineralcorticoid Metabolism (Wikipathways)",1.73015105228991
+"NLR proteins (Wikipathways)",1.00321320691089
+"Osteoblast Signaling (Wikipathways)",1.05851626359387
+"GPCRs, Class B Secretin-like (Wikipathways)",1.51308671259037
+"Mitochondrial LC-Fatty Acid Beta-Oxidation (Wikipathways)",1.06930024669725
+"Apoptosis Modulation by HSP70 (Wikipathways)",1.67167069195264
+"Nucleotide Metabolism (Wikipathways)",1.22268549849856
+"Non-homologous end joining (Wikipathways)",2.05005680849329
+"DNA Replication (Wikipathways)",1.7525198986783
+"GPCRs, Class C Metabotropic glutamate, pheromone (Wikipathways)",1.01637038567254
+"Mismatch repair (Wikipathways)",1.71559582711635
+"Biogenic Amine Synthesis (Wikipathways)",1.80896908715469
+"Heme Biosynthesis (Wikipathways)",2.54164994636688
+"Monoamine GPCRs (Wikipathways)",1.15689392416733
+"Type II interferon signaling (IFNG) (Wikipathways)",1.52661929960683
+"Oxidative phosphorylation (Wikipathways)",1.64445292493006
+"Tamoxifen metabolism (Wikipathways)",1.00527445139966
+"Arylamine metabolism (Wikipathways)",2.21866551459907
+"Aflatoxin B1 metabolism (Wikipathways)",1.7234034518963
+"Methylation Pathways (Wikipathways)",1.52960267546401
+"Cell Cycle Checkpoints (Reactome)",1.03830113804562
+"Metabolism of porphyrins (Reactome)",1.7382941671216
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins. (Reactome)",1.91590003880796
+"Signaling by Wnt (Reactome)",1.10403739857743
+"IL-3 down reg. targets (Netpath)",1.0345357968257
+"{ACY1,11} (Static Module)",1.3129455162113
+"{ATP5D,19} (Static Module)",2.20328881746358
+"{BCLAF1,25} (Static Module)",2.13580260812207
+"{CD4,14} (Static Module)",1.244113685328
+"{CNOT2,13} (Static Module)",1.2344628793175
+"{CYCS,35} (Static Module)",1.63362982699992
+"{DHX15,14} (Static Module)",1.17385099428415
+"{EPRS,15} (Static Module)",1.37596079512299
+"{HSP90B1,11} (Static Module)",2.69429858677201
+"{IGF1,13} (Static Module)",1.46660378332604
+"{INS,35} (Static Module)",2.05091502147624
+"{KCNB1,10} (Static Module)",1.83800018461346
+"{NDUFS8,49} (Static Module)",1.91681186075913
+"{NRP1,11} (Static Module)",1.01201396150586
+"{OTX2,18} (Static Module)",1.0366230992693
+"{PCNA,34} (Static Module)",1.13546765115828
+"{PLG,10} (Static Module)",1.35772490423642
+"{RAD21,11} (Static Module)",1.4502126773632
+"{RASGRF1,26} (Static Module)",1.0348821107554
+"{ROCK1,10} (Static Module)",1.39010567856314
+"{SEC24B,18} (Static Module)",1.01608813571493
+"{SFPQ,10} (Static Module)",1.34069290455864
+"{SHH,13} (Static Module)",1.02070410599235
+"{SNX1,11} (Static Module)",1.43270969967676
+"{SPTAN1,10} (Static Module)",1.81588787792248
+"{STX5,12} (Static Module)",1.23921001508449
+"{SUMO1,12} (Static Module)",2.22229531744743
+"{TJP1,26} (Static Module)",1.04617100870617
+"{VHL,12} (Static Module)",1.25954118523844
